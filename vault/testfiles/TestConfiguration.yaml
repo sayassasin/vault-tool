@@ -1,0 +1,10 @@
+vault:
+  server: "http://localhost:8200"
+  role: "myrole"
+  secretPath: "demokv/mytest"
+  loginPath: "kubernetes"
+  authMethod: "kubernetes"
+  kvVersion: "v1"
+kubeToken: "myCrazyKubeToken"
+username: "user"
+password: "password"

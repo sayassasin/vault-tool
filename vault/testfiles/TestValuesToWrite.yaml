@@ -1,0 +1,6 @@
+mode: "UPDATE" #mode weglassen = überschreiben
+values:
+  demo: real
+  cat: dog
+  hello: world
+
